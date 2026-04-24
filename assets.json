@@ -51,59 +51,72 @@
           "2": "321505216",
           "3": "321505231"
         }
+      }
+    },
+    "melee_sounds": {
+      "melee_swing": "154965908",
+      "melee_hit_player": "186829551",
+      "melee_hit_wood": "142082171",
+      "melee_block": "9119746751",
+      "axe_hit_player": "181268581",
+      "bayonet_hit_player": "156562039",
+      "bayonet_attack_blocked": "152900558",
+      "branch_hit_player": "614000991",
+      "shovel_hit_player": "10209583"
+    },
+    "artillery_sounds": {
+      "ramrod_cleaning": {
+        "1": "9113597474",
+        "2": "9113597177",
+        "3": "9113597625",
+        "4": "9113597815",
+        "5": "9113597705"
       },
-      "melee_sounds": {
-        "melee_swing": "154965908",
-        "melee_hit_player": "186829551",
-        "melee_hit_wood": "142082171",
-        "melee_block": "9119746751",
-        "axe_hit_player": "181268581",
-        "bayonet_hit_player": "156562039",
-        "bayonet_attack_blocked": "152900558",
-        "branch_hit_player": "614000991",
-        "shovel_hit_player": "10209583"
+      "inserting_ammo": "9125688297",
+      "ramrod_pushing_ammo": "9116822731",
+      "artillery_firing_far": "2689242256",
+      "artillery_fuse": "104562155",
+      "howitzer_firing": "7423555661",
+      "howitzer_explosion": {
+        "far": "4334729976",
+        "close1": "2814354886",
+        "close2": "2814355743"
       },
-      "artillery_sounds": {
-        "ramrod_cleaning": {
-          "1": "9113597474",
-          "2": "9113597177",
-          "3": "9113597625",
-          "4": "9113597815",
-          "5": "9113597705"
-        },
-        "inserting_ammo": "9125688297",
-        "ramrod_pushing_ammo": "9116822731",
-        "artillery_firing_far": "2689242256",
-        "artillery_fuse": "104562155",
-        "howitzer_firing": "7423555661",
-        "howitzer_explosion": {
-          "far": "4334729976",
-          "close1": "2814354886",
-          "close2": "2814355743"
-        },
-        "field_gun_firing": "2689242256",
-        "artillery_ammo_impact_ground": "190321873",
-        "artillery_ammo_travel": "5799870105"
+      "field_gun_firing": "2689242256",
+      "artillery_ammo_impact_ground": "190321873",
+      "artillery_ammo_travel": "5799870105"
+    },
+    "construct_sounds": {
+      "breaking_glass": "177555005",
+      "hammer_hit": {
+        "1": "180163738",
+        "2": "180163743",
+        "3": "180163749"
       },
-      "construct_sounds": {
-        "breaking_glass": "177555005",
-        "hammer_hit": {
-          "1": "180163738",
-          "2": "180163743",
-          "3": "180163749"
-        },
-        "wood_structure_destroyed": "158712406",
-        "wood_map_prop_destroyed": "227352572",
-        "building_earthwork": {
-          "1": "180163752",
-          "2": "180163754",
-          "3": "180163759"
-        },
-        "earthwork_destroyed": "138132533"
+      "wood_structure_destroyed": "158712406",
+      "wood_map_prop_destroyed": "227352572",
+      "building_earthwork": {
+        "1": "180163752",
+        "2": "180163754",
+        "3": "180163759"
       },
-      "doors": {
-        "open": "157167203",
-        "close": "157167205"
+      "earthwork_destroyed": "138132533"
+    },
+    "doors": {
+      "open": "157167203",
+      "close": "157167205"
+    },
+    "player_sounds": {
+      "drowning_gasp": {
+        "1": "138570824",
+        "2": "138156511",
+        "3": "138570829",
+        "4": "138156515"
+      },
+      "drowning_sounds": {
+        "1": "220194561",
+        "2": "229159914",
+        "3": "229159889"
       },
       "death_sound_effects": {
         "1": "358435460",
