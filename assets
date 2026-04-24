@@ -1,841 +1,143 @@
 {
-  "replacement_rules": [
-    {
-      "name": "Skybox Down",
-      "replace_ids": [
-        153767216
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/more_accurate_2desert_skybox/More Accurate 2desert Skybox/gfx/env/2desertdn.bmp"
-    },
-    {
-      "name": "Skybox Up",
-      "replace_ids": [
-        153767288
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/more_accurate_2desert_skybox/More Accurate 2desert Skybox/gfx/env/2desertup.bmp"
-    },
-    {
-      "name": "Skybox Left",
-      "replace_ids": [
-        153767200
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/more_accurate_2desert_skybox/More Accurate 2desert Skybox/gfx/env/2desertlf.bmp"
-    },
-    {
-      "name": "Skybox Right",
-      "replace_ids": [
-        153767231
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/more_accurate_2desert_skybox/More Accurate 2desert Skybox/gfx/env/2desertrt.bmp"
-    },
-    {
-      "name": "Skybox Back",
-      "replace_ids": [
-        153767241
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/more_accurate_2desert_skybox/More Accurate 2desert Skybox/gfx/env/2desertbk.bmp"
-    },
-    {
-      "name": "Skybox Front",
-      "replace_ids": [
-        153767266
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/more_accurate_2desert_skybox/More Accurate 2desert Skybox/gfx/env/2desertft.bmp"
-    },
-    {
-      "name": "Swing",
-      "replace_ids": [
-        154965908
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/cbar_miss1.mp3"
-    },
-    {
-      "name": "Melee Hit",
-      "replace_ids": [
-        186829551
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/cbar_hitbod2.wav"
-    },
-    {
-      "name": "Sword Block",
-      "replace_ids": [
-        9119746751
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/cbar_hit1.wav"
-    },
-    {
-      "name": "Main Menu Theme",
-      "replace_ids": [
-        1836207663
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/Valve Theme.mp3"
-    },
-    {
-      "name": "Main Menu Background",
-      "replace_ids": [
-        101449304759356,
-        86324776213002
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/Half-Life Background.png"
-    },
-    {
-      "name": "Main Menu Landscape Logo",
-      "replace_ids": [
-        94611366135186
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/Blood and Iron Half-Life Edition Logo.png"
-    },
-    {
-      "name": "Musket Fire Sound",
-      "replace_ids": [
-        147079634
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/357_shot1.wav"
-    },
-    {
-      "name": "Auld Lang Syne as Drums and Riffs",
-      "replace_ids": [
-        9041733512
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/Drums and Riffs.mp3"
-    },
-    {
-      "name": "Skybox Down - Sunset",
-      "replace_ids": [
-        153767216
-      ],
-      "mode": "local",
-      "enabled": false,
-      "local_path": "C:/Users/guv28/Downloads/sunset-desert-dn.png"
-    },
-    {
-      "name": "Skybox Up - Sunset",
-      "replace_ids": [
-        153767288
-      ],
-      "mode": "local",
-      "enabled": false,
-      "local_path": "C:/Users/guv28/Downloads/sunset-desert-up.png"
-    },
-    {
-      "name": "Skybox Left - Sunset",
-      "replace_ids": [
-        153767200
-      ],
-      "mode": "local",
-      "enabled": false,
-      "local_path": "C:/Users/guv28/Downloads/sunset-desert-lf.png"
-    },
-    {
-      "name": "Skybox Right - Sunset",
-      "replace_ids": [
-        153767231
-      ],
-      "mode": "local",
-      "enabled": false,
-      "local_path": "C:/Users/guv28/Downloads/sunset-desert-rt.png"
-    },
-    {
-      "name": "Skybox Back - Sunset",
-      "replace_ids": [
-        153767241
-      ],
-      "mode": "local",
-      "enabled": false,
-      "local_path": "C:/Users/guv28/Downloads/sunset-desert-bk.png"
-    },
-    {
-      "name": "Skybox Front - Sunset",
-      "replace_ids": [
-        153767266
-      ],
-      "mode": "local",
-      "enabled": false,
-      "local_path": "C:/Users/guv28/Downloads/sunset-desert-ft.png"
-    },
-    {
-      "name": "Cannonball Travel Sound",
-      "replace_ids": [
-        5799870105
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/rocket1.mp3"
-    },
-    {
-      "name": "Door Open",
-      "replace_ids": [
-        157167203
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/doormove9.wav"
-    },
-    {
-      "name": "Door Close",
-      "replace_ids": [
-        157167205
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/doormove10.wav"
-    },
-    {
-      "name": "Ramming Artillery Ammo",
-      "replace_ids": [
-        9116822731
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/mine_charge_lowertone.mp3"
-    },
-    {
-      "name": "Cannon Firing",
-      "replace_ids": [
-        7074945946,
-        2689242256
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife_cannonfire.mp3"
-    },
-    {
-      "name": "Short Fuse",
-      "replace_ids": [
-        104562155
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife_fuse.mp3"
-    },
-    {
-      "name": "Explosion 1",
-      "replace_ids": [
-        2814355743
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/explode1.wav"
-    },
-    {
-      "name": "Explosion 2",
-      "replace_ids": [
-        2814354886
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/explode2.wav"
-    },
-    {
-      "name": "Explosion 3",
-      "replace_ids": [
-        4334729976
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/explode3.wav"
-    },
-    {
-      "name": "Flintlock Ramrod in and out",
-      "replace_ids": [
-        214063962
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/9mmclip1.wav"
-    },
-    {
-      "name": "Flintlock Ramrod remove",
-      "replace_ids": [
-        214064216
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/scock1b.mp3"
-    },
-    {
-      "name": "Flintlock spit cartdrige",
-      "replace_ids": [
-        350906125
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/xbow_reload1.wav"
-    },
-    {
-      "name": "Howitzer Firing",
-      "replace_ids": [
-        7423555661
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/glauncher.wav"
-    },
-    {
-      "name": "Pistol Fire",
-      "replace_ids": [
-        182342351
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife-pistolfire.mp3"
-    },
-    {
-      "name": "Dirt Footstep 1",
-      "replace_ids": [
-        187262992
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_dirt1.mp3"
-    },
-    {
-      "name": "Dirt Footstep 2",
-      "replace_ids": [
-        187263000
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_dirt2.mp3"
-    },
-    {
-      "name": "Dirt Footstep 3",
-      "replace_ids": [
-        187263007
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_dirt3.mp3"
-    },
-    {
-      "name": "Dirt Footstep 4",
-      "replace_ids": [
-        187263016
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_dirt4.mp3"
-    },
-    {
-      "name": "Dirt Footstep 5",
-      "replace_ids": [
-        187263022
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_dirt1.mp3"
-    },
-    {
-      "name": "Metal Footstep 1",
-      "replace_ids": [
-        133761584
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_metal1.mp3"
-    },
-    {
-      "name": "Metal Footstep 2",
-      "replace_ids": [
-        133772038
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_metal4.mp3"
-    },
-    {
-      "name": "Metal Footstep 3",
-      "replace_ids": [
-        133772047
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_metal3.mp3"
-    },
-    {
-      "name": "Inserting Artillery Ammo",
-      "replace_ids": [
-        9125688297
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife_insertartilleryammo.mp3"
-    },
-    {
-      "name": "Mud Footstep 1",
-      "replace_ids": [
-        133761592
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_slosh1.mp3"
-    },
-    {
-      "name": "Mud Footstep 2",
-      "replace_ids": [
-        133772577
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_slosh2.mp3"
-    },
-    {
-      "name": "Mud Footstep 3",
-      "replace_ids": [
-        133772590
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_slosh3.mp3"
-    },
-    {
-      "name": "Stone Footstep 1",
-      "replace_ids": [
-        180239547
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_step1.mp3"
-    },
-    {
-      "name": "Stone Footstep 2",
-      "replace_ids": [
-        180239559
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_step2.mp3"
-    },
-    {
-      "name": "Stone Footstep 3",
-      "replace_ids": [
-        180239571
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_step3.mp3"
-    },
-    {
-      "name": "Stone Footstep 4",
-      "replace_ids": [
-        180239587
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_step4.mp3"
-    },
-    {
-      "name": "Stone Footstep 5",
-      "replace_ids": [
-        180239594
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pl_tile5.mp3"
-    },
-    {
-      "name": "Artillery Ramrod Cleaning 1",
-      "replace_ids": [
-        9113597474
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pushbox1.mp3"
-    },
-    {
-      "name": "Artillery Ramrod Cleaning 2",
-      "replace_ids": [
-        9113597177
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pushbox2.mp3"
-    },
-    {
-      "name": "Artillery Ramrod Cleaning 3",
-      "replace_ids": [
-        9113597625
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pushbox3.mp3"
-    },
-    {
-      "name": "Artillery Ramrod Cleaning 4",
-      "replace_ids": [
-        9113597815
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pushbox1.mp3"
-    },
-    {
-      "name": "Artillery Ramrod Cleaning 5",
-      "replace_ids": [
-        9113597705
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pushbox2.mp3"
-    },
-    {
-      "name": "Melee Impacting Wood",
-      "replace_ids": [
-        142082171
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/wood3.wav"
-    },
-    {
-      "name": "Wood Destroyed",
-      "replace_ids": [
-        158712406
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/bustcrate3.wav"
-    },
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "name": "Pouring Gunpowder",
-      "replace_ids": [
-        179650551
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/ammopickup2.wav"
-    },
-    {
-      "name": "Pulling bullet on reload",
-      "replace_ids": [
-        16720508,
-        16720502
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/gunpickup2_C_major__bpm_111.mp3"
-    },
-    {
-      "name": "Barney Death Sound",
-      "replace_ids": [
-        358435460,
-        163154423,
-        186320165
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife-barneydeath.mp3"
-    },
-    {
-      "name": "Scientist Death Sound",
-      "replace_ids": [
-        9125652147,
-        157030819,
-        186320165
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife-scientistdeath.mp3"
-    },
-    {
-      "name": "Grunt Death Sound",
-      "replace_ids": [
-        358435412,
-        9125652432,
-        2560636182,
-        270347947
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife-gruntdeath.mp3"
-    },
-    {
-      "name": "Gordon Death Sound",
-      "replace_ids": [
-        146565112,
-        1869841622,
-        160718677,
-        763816977
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/halflife-gordondeath.mp3"
-    },
-    {
-      "name": "Axe Hit",
-      "replace_ids": [
-        181268581
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pwrench_hitbod1_D_major__bpm_169.mp3"
-    },
-    {
-      "name": "Bullet Hits Close",
-      "replace_ids": [
-        138890880
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/ricochet.mp3"
-    },
-    {
-      "name": "Destroy Glass",
-      "replace_ids": [
-        177555005
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/bustglass2.wav"
-    },
-    {
-      "name": "Blocking a Bayonet Attack",
-      "replace_ids": [
-        152900558
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/pwrench_hit2.wav"
-    },
-    {
-      "name": "Glass Breaking",
-      "replace_ids": [
-        177555005
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/bustglass2.wav"
-    },
-    {
-      "name": "Bayonet Slash",
-      "replace_ids": [
-        156562039
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/knife_hit_flesh2.wav"
-    },
-    {
-      "name": "Earthwork Destroyed",
-      "replace_ids": [
-        138132533
-      ],
-      "mode": "local",
-      "enabled": true,
-      "local_path": "C:/Users/guv28/Downloads/bustconcrete2.wav"
-    },
-    {
-      "name": "Fife Tracks",
-      "replace_ids": [
-        18521835557,
-        18521880187,
-        18521855196,
-        18521875017,
-        18521818666,
-        18521728278,
-        16611448601,
-        16610931915,
-        16611259330,
-        16611346027,
-        16611039822,
-        16611118049,
-        9126712784,
-        9126711630,
-        12750861534,
-        13124598373,
-        14784073029,
-        12857995068,
-        14897845086,
-        14783973020,
-        9126467416,
-        9126471106,
-        9126471835,
-        9126470284,
-        9126468550,
-        13009097750,
-        13009105694,
-        13009109133,
-        13009102180,
-        13009062074,
-        13009059176,
-        13009113035,
-        102794197226495,
-        95000799344368,
-        71014320133167,
-        99713064639957,
-        105425253106016,
-        276860816,
-        177415818,
-        177415826,
-        276860646,
-        177415792,
-        291393382,
-        291393830,
-        291393741,
-        291393487,
-        291393978,
-        9126817116,
-        9126819324,
-        9126820046,
-        9126818614,
-        9126818014
-      ],
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "name": "Drum Tracks",
-      "replace_ids": [
-        9126738911,
-        276860503,
-        9126741171,
-        9126740502,
-        9126739858,
-        291392929,
-        291392312,
-        291392498,
-        291392683,
-        291393040,
-        18521838794,
-        18521898144,
-        18521857915,
-        18521876724,
-        18521730332,
-        18521822965,
-        16611451937,
-        16611348868,
-        16610934657,
-        16611119883,
-        16611042521,
-        16611263943,
-        9126703171,
-        9126705378,
-        9126705820,
-        9126704617,
-        9126703925,
-        14783968566,
-        12750883730,
-        14783974675,
-        14897846396,
-        13124600043,
-        12857999460,
-        14897534039,
-        9126806461,
-        9126814185,
-        9126813475,
-        9126809018,
-        9126812138,
-        9126445250,
-        9126448094,
-        9126447320,
-        9126448771,
-        9126446443,
-        13009106799,
-        13009117049,
-        13009110552,
-        13009098948,
-        13009102922,
-        13009062671,
-        13009060742,
-        81996308618772,
-        75092368936530,
-        95231134081083,
-        132094960654959,
-        77383350835641,
-        1840205819
-      ],
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "name": "Bugle Tracks",
-      "replace_ids": [
-        276900801,
-        276900914,
-        291392002,
-        291391717,
-        291391841,
-        18521840369,
-        18521899868,
-        18521742380,
-        18521859371,
-        18521826167,
-        18521878001,
-        16610651701,
-        16610647229,
-        16610649452,
-        276901185,
-        276901030,
-        14783969565,
-        14897847599,
-        12750903003,
-        13124602706,
-        14783975995,
-        14897534870,
-        12858002875,
-        308329159,
-        9126424034,
-        279442565,
-        279442459,
-        9126804353,
-        13009107939,
-        13009103691,
-        13009111824,
-        13009119398,
-        13009099974,
-        131194157186943,
-        105782218119795,
-        92509241605030,
-        131224352032091
-      ],
-      "mode": "id",
-      "enabled": true
-    },
-    {
-      "name": "Bagpipe Tracks",
-      "replace_ids": [
-        276859387,
-        276859487,
-        9126726850,
-        276859251,
-        276859567,
-        9126725195,
-        9126726047,
-        276859066
-      ],
-      "mode": "id",
-      "enabled": true
+  "main_menu": {
+    "main_menu_theme": "1836207663",
+    "main_menu_background": "101449304759356",
+    "picking_nation_background": "86324776213002",
+    "logo": "94611366135186"
+  },
+  "skybox": {
+    "front": "153767266",
+    "back": "153767241",
+    "right": "153767231",
+    "left": "153767200",
+    "up": "153767288",
+    "down": "153767216"
+  },
+  "sound_effects": {
+    "flintlock_sounds": {
+      "flintlock_cocking_hammer": "160608684",
+      "flintlock_firing1": "147079634",
+      "flintlock_firing2": "182342351",
+      "flintlock_remove_ramrod": "214064216",
+      "flintlock_insert_ramrod": "214064216",
+      "flintlock_pouring_powder": "179650551",
+      "flintlock_inserting_ammo": "142429556",
+      "flintlock_pulling_bullet_from_pocket": {
+        "1": "16720508",
+        "2": "16720502"
+      }
+    },
+    "melee_sounds": {
+      "melee_swing": "154965908",
+      "melee_hit_player": "186829551",
+      "melee_hit_wood": "142082171",
+      "melee_block": "9119746751",
+      "axe_hit_player": "181268581",
+      "bayonet_hit_player": "156562039",
+      "bayonet_attack_blocked": "152900558"
+    },
+    "artillery_sounds": {
+      "ramrod_cleaning": {
+        "1": "9113597474",
+        "2": "9113597177",
+        "3": "9113597625",
+        "4": "9113597815",
+        "5": "9113597705"
+      },
+      "inserting_ammo": "9125688297",
+      "ramrod_pushing_ammo": "9116822731",
+      "artillery_firing_far": "2689242256",
+      "artillery_fuse": "104562155",
+      "howitzer_firing": "7423555661",
+      "howitzer_explosion": {
+        "far": "4334729976",
+        "close1": "2814354886",
+        "close2": "2814355743"
+      },
+      "field_gun_firing": "2689242256",
+      "artillery_ammo_impact_ground": "190321873",
+      "artillery_ammo_travel": "5799870105"
+    },
+    "construct_sounds": {
+      "breaking_glass": "177555005",
+      "hammer_hit": {
+        "1": "180163738",
+        "2": "180163743",
+        "3": "180163749"
+      },
+      "wood_structure_destroyed": "158712406",
+      "building_earthwork": {
+        "1": "180163752",
+        "2": "180163754",
+        "3": "180163759"
+      },
+      "earthwork_destroyed": "138132533"
+    },
+    "doors": {
+      "open": "157167203",
+      "close": "157167205"
+    },
+    "death_sound_effects": {
+      "1": "358435460",
+      "2": "163154423",
+      "3": "186320165",
+      "4": "9125652147",
+      "5": "157030819",
+      "6": "153958264",
+      "7": "358435412",
+      "8": "9125652432",
+      "9": "2560636182",
+      "10": "270347947",
+      "11": "146565112",
+      "12": "1869841622",
+      "13": "160718677",
+      "14": "763816977"
+    },
+    "footsteps": {
+      "grass": {
+        "1": "138932416",
+        "2": "138920850",
+        "3": "138917981",
+        "4": "138893357",
+        "5": "138888756"
+      },
+      "stone": {
+        "1": "180239594",
+        "2": "180239587",
+        "3": "180239571",
+        "4": "180239559",
+        "5": "180239547"
+      },
+      "dirt": {
+        "1": "187263022",
+        "2": "187263016",
+        "3": "187263007",
+        "4": "187263000",
+        "5": "187262992"
+      },
+      "wood": {
+        "1": "178318510",
+        "2": "178318502",
+        "3": "178318498",
+        "4": "178318496",
+        "5": "178318486"
+      },
+      "sand": {
+        "1": "73944067469850",
+        "2": "81768007574828",
+        "3": "114718728143399"
+      },
+      "mud": {
+        "1": "133772590",
+        "2": "133772577",
+        "3": "133761592"
+      },
+      "ice": {
+        "1": "311355828",
+        "2": "311355767",
+        "3": "311355719",
+        "4": "311355685"
+      }
     }
-  ]
+  }
 }
