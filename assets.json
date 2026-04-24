@@ -1,6 +1,6 @@
 {
   "main_menu": {
-    "main_menu_theme": "1836207663",
+    "MAIN_MENU_THEME_symphony_3_eroica_1st_movement": "1836207663",
     "main_menu_background": "101449304759356",
     "picking_nation_background": "86324776213002",
     "logo": "94611366135186"
@@ -409,7 +409,7 @@
       "swedish_national_anthem": "1837478304",
       "symphonie_fantastique_op14": "1847130176",
       "symphony_25_in_g_minor_1st_mvt": "1842148357",
-      "symphony_3_eroica_1st_movement": "1836207663",
+      "MAIN_MENU_THEME_symphony_3_eroica_1st_movement": "1836207663",
       "symphony_40_in_g_minor_1st_mvt": "1842148258",
       "symphony_5_trauermarsch": "1848068900",
       "symphony_9_ode_to_joy": "1840246654",
