@@ -20,4 +20,4 @@ If you:
 - Have an asset ID from the game that isn't in my JSON
 - Find an error in the JSON (From example, I named an asset wrongly)
 
-**Feel free to DM "gabothelynx" on Discord :3!**
+**Feel free to DM "gabothelynx" on Discord :3! I don't bite...**
