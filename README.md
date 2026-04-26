@@ -21,3 +21,7 @@ If you:
 - Find an error in the JSON (From example, I named an asset wrongly)
 
 **Feel free to DM "gabothelynx" on Discord :3! I don't bite...**
+
+## Custom Configs:
+I've made a couple of custom configurations, if you'ld like to try them :3 
+- **Blood and Iron: Half-Life Edition:** Replaces a lot of the sound effects with Half-Life ones! They fit surprisingly well and its pretty fun to play.
