@@ -1,0 +1,908 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Skybox Down",
+      "replace_ids": [
+        153767216
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/2desertdn.bmp"
+    },
+    {
+      "name": "Skybox Up",
+      "replace_ids": [
+        153767288
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/2desertup.bmp"
+    },
+    {
+      "name": "Skybox Left",
+      "replace_ids": [
+        153767200
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/2desertlf.bmp"
+    },
+    {
+      "name": "Skybox Right",
+      "replace_ids": [
+        153767231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/2desertrt.bmp"
+    },
+    {
+      "name": "Skybox Back",
+      "replace_ids": [
+        153767241
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/2desertbk.bmp"
+    },
+    {
+      "name": "Skybox Front",
+      "replace_ids": [
+        153767266
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/2desertft.bmp"
+    },
+    {
+      "name": "Swing",
+      "replace_ids": [
+        154965908
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/cbar_miss1.ogg"
+    },
+    {
+      "name": "Melee Hit",
+      "replace_ids": [
+        186829551
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/cbar_hitbod2.ogg"
+    },
+    {
+      "name": "Sword Block",
+      "replace_ids": [
+        9119746751
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/cbar_hit1.ogg"
+    },
+    {
+      "name": "Main Menu Theme",
+      "replace_ids": [
+        1836207663
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/main/Blood%20and%20Iron%20Half-Life%20Edition/Valve%20Theme.ogg"
+    },
+    {
+      "name": "Main Menu Background",
+      "replace_ids": [
+        101449304759356,
+        86324776213002
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/Half-Life Background.png"
+    },
+    {
+      "name": "Main Menu Landscape Logo",
+      "replace_ids": [
+        94611366135186
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/Blood and Iron Half-Life Edition Logo.png"
+    },
+    {
+      "name": "Musket Fire Sound",
+      "replace_ids": [
+        147079634
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/357_shot1.ogg"
+    },
+    {
+      "name": "Skybox Down - Sunset",
+      "replace_ids": [
+        153767216
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/sunset-desert-dn.png"
+    },
+    {
+      "name": "Skybox Up - Sunset",
+      "replace_ids": [
+        153767288
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/sunset-desert-up.png"
+    },
+    {
+      "name": "Skybox Left - Sunset",
+      "replace_ids": [
+        153767200
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/sunset-desert-lf.png"
+    },
+    {
+      "name": "Skybox Right - Sunset",
+      "replace_ids": [
+        153767231
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/sunset-desert-rt.png"
+    },
+    {
+      "name": "Skybox Back - Sunset",
+      "replace_ids": [
+        153767241
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/sunset-desert-bk.png"
+    },
+    {
+      "name": "Skybox Front - Sunset",
+      "replace_ids": [
+        153767266
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/sunset-desert-ft.png"
+    },
+    {
+      "name": "Cannonball Travel Sound",
+      "replace_ids": [
+        5799870105
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/rocket1.ogg"
+    },
+    {
+      "name": "Door Open",
+      "replace_ids": [
+        157167203
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/doormove9.ogg"
+    },
+    {
+      "name": "Door Close",
+      "replace_ids": [
+        157167205
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/doormove10.ogg"
+    },
+    {
+      "name": "Ramming Artillery Ammo",
+      "replace_ids": [
+        9116822731
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/mine_charge_lowertone.ogg"
+    },
+    {
+      "name": "Cannon Firing",
+      "replace_ids": [
+        2689242256,
+        7074945946
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife_cannonfire.ogg"
+    },
+    {
+      "name": "Short Fuse",
+      "replace_ids": [
+        104562155
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife_fuse.ogg"
+    },
+    {
+      "name": "Explosion 1",
+      "replace_ids": [
+        2814355743
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/explode1.ogg"
+    },
+    {
+      "name": "Explosion 2",
+      "replace_ids": [
+        2814354886
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/explode2.ogg"
+    },
+    {
+      "name": "Explosion 3",
+      "replace_ids": [
+        4334729976
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/explode3.ogg"
+    },
+    {
+      "name": "Flintlock Ramrod in and out",
+      "replace_ids": [
+        214063962
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/9mmclip1.ogg"
+    },
+    {
+      "name": "Flintlock Ramrod remove",
+      "replace_ids": [
+        214064216
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/scock1b.ogg"
+    },
+    {
+      "name": "Flintlock spit cartdrige",
+      "replace_ids": [
+        350906125
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/xbow_reload1.ogg"
+    },
+    {
+      "name": "Howitzer Firing",
+      "replace_ids": [
+        7423555661
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/glauncher.ogg"
+    },
+    {
+      "name": "Pistol Fire",
+      "replace_ids": [
+        182342351
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife-pistolfire.ogg"
+    },
+    {
+      "name": "Dirt Footstep 1",
+      "replace_ids": [
+        187262992
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_dirt1.ogg"
+    },
+    {
+      "name": "Dirt Footstep 2",
+      "replace_ids": [
+        187263000
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_dirt2.ogg"
+    },
+    {
+      "name": "Dirt Footstep 3",
+      "replace_ids": [
+        187263007
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_dirt3.ogg"
+    },
+    {
+      "name": "Dirt Footstep 4",
+      "replace_ids": [
+        187263016
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_dirt4.ogg"
+    },
+    {
+      "name": "Dirt Footstep 5",
+      "replace_ids": [
+        187263022
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_dirt1.ogg"
+    },
+    {
+      "name": "Metal Footstep 1",
+      "replace_ids": [
+        133761584
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_metal1.ogg"
+    },
+    {
+      "name": "Metal Footstep 2",
+      "replace_ids": [
+        133772038
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_metal4.ogg"
+    },
+    {
+      "name": "Metal Footstep 3",
+      "replace_ids": [
+        133772047
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_metal3.ogg"
+    },
+    {
+      "name": "Inserting Artillery Ammo",
+      "replace_ids": [
+        9125688297
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife_insertartilleryammo.ogg"
+    },
+    {
+      "name": "Mud Footstep 1",
+      "replace_ids": [
+        133761592
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_slosh1.ogg"
+    },
+    {
+      "name": "Mud Footstep 2",
+      "replace_ids": [
+        133772577
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_slosh2.ogg"
+    },
+    {
+      "name": "Mud Footstep 3",
+      "replace_ids": [
+        133772590
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_slosh3.ogg"
+    },
+    {
+      "name": "Stone Footstep 1",
+      "replace_ids": [
+        180239547
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_step1.ogg"
+    },
+    {
+      "name": "Stone Footstep 2",
+      "replace_ids": [
+        180239559
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_step2.ogg"
+    },
+    {
+      "name": "Stone Footstep 3",
+      "replace_ids": [
+        180239571
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_step3.ogg"
+    },
+    {
+      "name": "Stone Footstep 4",
+      "replace_ids": [
+        180239587
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_step4.ogg"
+    },
+    {
+      "name": "Stone Footstep 5",
+      "replace_ids": [
+        180239594
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pl_tile5.ogg"
+    },
+    {
+      "name": "Artillery Ramrod Cleaning 1",
+      "replace_ids": [
+        9113597474
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pushbox1.ogg"
+    },
+    {
+      "name": "Artillery Ramrod Cleaning 2",
+      "replace_ids": [
+        9113597177
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pushbox2.ogg"
+    },
+    {
+      "name": "Artillery Ramrod Cleaning 3",
+      "replace_ids": [
+        9113597625
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pushbox3.ogg"
+    },
+    {
+      "name": "Artillery Ramrod Cleaning 4",
+      "replace_ids": [
+        9113597815
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pushbox1.ogg"
+    },
+    {
+      "name": "Artillery Ramrod Cleaning 5",
+      "replace_ids": [
+        9113597705
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pushbox2.ogg"
+    },
+    {
+      "name": "Melee Impacting Wood",
+      "replace_ids": [
+        142082171
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/wood3.ogg"
+    },
+    {
+      "name": "Pouring Gunpowder",
+      "replace_ids": [
+        179650551
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/ammopickup2.ogg"
+    },
+    {
+      "name": "Pulling bullet on reload",
+      "replace_ids": [
+        16720508,
+        16720502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/gunpickup2_C_major__bpm_111.ogg"
+    },
+    {
+      "name": "Barney Death Sound",
+      "replace_ids": [
+        358435460,
+        163154423,
+        186320165
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife-barneydeath.ogg"
+    },
+    {
+      "name": "Scientist Death Sound",
+      "replace_ids": [
+        9125652147,
+        157030819,
+        186320165,
+        153958264
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife-scientistdeath.ogg"
+    },
+    {
+      "name": "Grunt Death Sound",
+      "replace_ids": [
+        358435412,
+        9125652432,
+        2560636182,
+        270347947
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife-gruntdeath.ogg"
+    },
+    {
+      "name": "Gordon Death Sound",
+      "replace_ids": [
+        146565112,
+        1869841622,
+        160718677,
+        763816977
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/halflife-gordondeath.ogg"
+    },
+    {
+      "name": "Axe Hit",
+      "replace_ids": [
+        181268581
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pwrench_hitbod1_D_major__bpm_169.ogg"
+    },
+    {
+      "name": "Bullet Hits Close",
+      "replace_ids": [
+        138890880
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/ricochet.ogg"
+    },
+    {
+      "name": "Blocking a Bayonet Attack",
+      "replace_ids": [
+        152900558
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/pwrench_hit2.ogg"
+    },
+    {
+      "name": "Glass Breaking",
+      "replace_ids": [
+        177555005
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/bustglass2.ogg"
+    },
+    {
+      "name": "Bayonet Slash",
+      "replace_ids": [
+        156562039
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/knife_hit_flesh2.ogg"
+    },
+    {
+      "name": "Earthwork Destroyed",
+      "replace_ids": [
+        138132533
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/refs/heads/main/Blood%20and%20Iron%20Half-Life%20Edition/bustconcrete2.ogg"
+    },
+    {
+      "name": "Wood Destroyed",
+      "replace_ids": [
+        158712406
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/GaboTheDemo/Blood-and-Iron-Fleasion-Asset-Dump/main/Blood%20and%20Iron%20Half-Life%20Edition/bustcrate3.ogg"
+    },
+    {
+      "name": "Instruments",
+      "replace_ids": [
+        18521835557,
+        18521880187,
+        18521855196,
+        18521875017,
+        18521818666,
+        18521728278,
+        16611448601,
+        16610931915,
+        16611259330,
+        16611346027,
+        16611039822,
+        16611118049,
+        9126712784,
+        9126711630,
+        12750861534,
+        13124598373,
+        14784073029,
+        12857995068,
+        14897845086,
+        14783973020,
+        9126467416,
+        9126471106,
+        9126471835,
+        9126470284,
+        9126468550,
+        13009097750,
+        13009105694,
+        13009109133,
+        13009102180,
+        13009062074,
+        13009059176,
+        13009113035,
+        102794197226495,
+        95000799344368,
+        71014320133167,
+        99713064639957,
+        105425253106016,
+        276860816,
+        177415818,
+        177415826,
+        276860646,
+        177415792,
+        291393382,
+        291393830,
+        291393741,
+        291393487,
+        291393978,
+        9126817116,
+        9126819324,
+        9126820046,
+        9126818614,
+        9126818014,
+        9126738911,
+        276860503,
+        9126741171,
+        9126740502,
+        9126739858,
+        291392929,
+        291392312,
+        291392498,
+        291392683,
+        291393040,
+        18521838794,
+        18521898144,
+        18521857915,
+        18521876724,
+        18521730332,
+        18521822965,
+        16611451937,
+        16611348868,
+        16610934657,
+        16611119883,
+        16611042521,
+        16611263943,
+        9126703171,
+        9126705378,
+        9126705820,
+        9126704617,
+        9126703925,
+        14783968566,
+        12750883730,
+        14783974675,
+        14897846396,
+        13124600043,
+        12857999460,
+        14897534039,
+        9126806461,
+        9126814185,
+        9126813475,
+        9126809018,
+        9126812138,
+        9126445250,
+        9126448094,
+        9126447320,
+        9126448771,
+        9126446443,
+        13009106799,
+        13009117049,
+        13009110552,
+        13009098948,
+        13009102922,
+        13009062671,
+        13009060742,
+        81996308618772,
+        75092368936530,
+        95231134081083,
+        132094960654959,
+        77383350835641,
+        1840205819,
+        276900801,
+        276900914,
+        291392002,
+        291391717,
+        291391841,
+        18521840369,
+        18521899868,
+        18521742380,
+        18521859371,
+        18521826167,
+        18521878001,
+        16610651701,
+        16610647229,
+        16610649452,
+        276901185,
+        276901030,
+        14783969565,
+        14897847599,
+        12750903003,
+        13124602706,
+        14783975995,
+        14897534870,
+        12858002875,
+        308329159,
+        9126424034,
+        279442565,
+        279442459,
+        9126804353,
+        13009107939,
+        13009103691,
+        13009111824,
+        13009119398,
+        13009099974,
+        131194157186943,
+        105782218119795,
+        92509241605030,
+        131224352032091,
+        276859387,
+        276859487,
+        9126726850,
+        276859251,
+        276859567,
+        9126725195,
+        9126726047,
+        276859066
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Music Player",
+      "replace_ids": [
+        1840248676,
+        1847157719,
+        1839900476,
+        1840407017,
+        9041733512,
+        1836222363,
+        1848075163,
+        1846306568,
+        1848029226,
+        1837474791,
+        1848063659,
+        1848063811,
+        1836282222,
+        1836207415,
+        1837487768,
+        1836635015,
+        1843531626,
+        1837488347,
+        1842240907,
+        1848067083,
+        9042830107,
+        1839900537,
+        1848052238,
+        1848052102,
+        1848048712,
+        1844293230,
+        1848064569,
+        1847099658,
+        1836282826,
+        1842157950,
+        1842157983,
+        1840296887,
+        1840677539,
+        1836282791,
+        1848050357,
+        1848053043,
+        1836222247,
+        1844911226,
+        1839091092,
+        9045919479,
+        1842164726,
+        1837476599,
+        153791607,
+        1051905054,
+        1051906200,
+        1843538109,
+        1051906630,
+        1837475195,
+        1839090843,
+        1847163578,
+        1840296910,
+        1838443847,
+        1848050065,
+        1847101276,
+        9038875416,
+        1843531708,
+        1843564479,
+        1847152953,
+        1848074767,
+        1848074593,
+        1846480379,
+        1846480499,
+        1845868993,
+        1844280451,
+        1844309360,
+        1844309470,
+        1844280119,
+        266977218,
+        1844282577,
+        1836330848,
+        1846746245,
+        9045920568,
+        1837073462,
+        1840237228,
+        1840296292,
+        1847166371,
+        1847113510,
+        1842156798,
+        1848047944,
+        1847130176,
+        1842148357,
+        1842148258,
+        1848068900,
+        1840246654,
+        1847123861,
+        1847157122,
+        1841049860,
+        1847104115,
+        1843552862,
+        1843664357,
+        1838138545,
+        1847145765,
+        1848027867,
+        1842150151,
+        9045919522,
+        922153675,
+        1836282092,
+        1846073488,
+        1844280366,
+        1838603107,
+        1841422823
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
